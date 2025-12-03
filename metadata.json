@@ -1,0 +1,8 @@
+{
+  "name": "Copy of 幻装AI - HuanZhuang AI",
+  "description": "智能试衣与时尚电商一体化平台。Dynamic AI fashion fitting and e-commerce platform with context-aware color themes.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
